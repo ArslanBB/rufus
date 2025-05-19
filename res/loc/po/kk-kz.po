@@ -6,30 +6,30 @@ msgstr ""
 "PO-Revision-Date: 2024-04-26 02:06+0300\n"
 "Last-Translator: Dmitry Yerokhin <erodim@mail.ru>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ru_RU\n"
+"Language: kz_KZ\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Rufus-LanguageName: Russian (Русский)\n"
+"X-Rufus-LanguageName: Kazakh (Қазақша)\n"
 "X-Rufus-LCID: 0x0419, 0x0819\n"
 "X-Generator: Poedit 1.5.7\n"
 
 #. • IDD_DIALOG → IDS_DRIVE_PROPERTIES_TXT
 msgid "Drive Properties"
-msgstr "Свойства диска"
+msgstr "Диск сипаттамасы"
 
 #. • IDD_DIALOG → IDS_DEVICE_TXT
 msgid "Device"
-msgstr "Устройство"
+msgstr "Құрылғы"
 
 #. • IDD_DIALOG → IDS_BOOT_SELECTION_TXT
 msgid "Boot selection"
-msgstr "Метод загрузки"
+msgstr "Жүктеу тәсілі"
 
 #. • IDD_DIALOG → IDC_SELECT
 msgid "Select"
-msgstr "Выбрать"
+msgstr "Таңдау"
 
 #. • IDD_DIALOG → IDS_IMAGE_OPTION_TXT
 msgid "Image Option"
